@@ -1,0 +1,13 @@
+Script started on 2023-05-11 00:19:21+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="79" LINES="23"]
+]0;sirvili@lx1-fuxi013: ~[01;32msirvili@lx1-fuxi013[00m:[01;34m~[00m$ sudo docker run -it ubuntu bash
+[sudo] password for sirvili: 
+[?2004h]0;root@817c9715786b: /root@817c9715786b:/# cd user  r/app   src
+[?2004l[?2004h]0;root@817c9715786b: /usr/srcroot@817c9715786b:/usr/src# mkdir app
+[?2004l[?2004h]0;root@817c9715786b: /usr/srcroot@817c9715786b:/usr/src# cd app
+[?2004l[?2004h]0;root@817c9715786b: /usr/src/approot@817c9715786b:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@817c9715786b: /usr/src/approot@817c9715786b:/usr/src/app# exit
+[?2004lexit
+]0;sirvili@lx1-fuxi013: ~[01;32msirvili@lx1-fuxi013[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-05-11 00:20:33+03:00 [COMMAND_EXIT_CODE="0"]
